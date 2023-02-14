@@ -5,10 +5,10 @@ output: html_document
 
 <br>
 
-Bronwyn's github: https://github.com/bronwynbutcher
+Bronwyn's Github: https://github.com/bronwynbutcher
 
 <br>
 
-Sarah's github: https://github.com/slawhun
+Sarah's Github: https://github.com/slawhun
 
 
