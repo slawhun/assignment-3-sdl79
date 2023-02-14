@@ -3,7 +3,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Personal Github Accounts"
+    - text: "Our Github Accounts"
       href: accounts.html
     - text: "Sarah"
       href: sarah.html

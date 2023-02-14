@@ -1,5 +1,5 @@
 ---
-title: "Our Personal Github Accounts"
+title: "Our Github Accounts"
 output: html_document
 ---
 
