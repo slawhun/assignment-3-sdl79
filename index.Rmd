@@ -2,15 +2,43 @@
 title: "Bronwyn and Sarah's Collaborative Website"
 output: 
   html_document:
+    toc: true
     theme: sandstone
     highlight: monochrome
 ---
+
+## Bronwyn and Sarah's Personal Github Accounts: 
 
 Bronwyn's github: https://github.com/bronwynbutcher
 <br>
 Sarah's github: https://github.com/slawhun
 
-### Here's a hedgehog
+## Here's a hedgehog
 
 ![Look how cute he is](https://www.picng.com/upload/hedgehog/png_hedgehog_2530.png){width=70%}
+<br>
+
+## About Sarah
+
+* I'm a freshwater ecologist from the Chicago area and I love the Great Lakes. Lake Michigan is my current study system.
+
+<br>
+
+<center>
+
+![](https://openclipart.org/image/800px/329146){width=60%}
+
+</center>
+
+<br>
+
+* When I'm not out on the lakes, I love mushroom foraging, sewing historical costumes, knitting, making soup, hiking, and hanging out with my friends and/or cats.
+
+* Third bullet
+
+## About Bronwyn
+
+* First bullet
+* Second bullet
+* Third bullet
 

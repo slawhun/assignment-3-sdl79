@@ -3,3 +3,6 @@ title: "Bronwyn"
 output: html_document
 ---
 
+* First bullet
+* Second bullet
+* Third bullet
