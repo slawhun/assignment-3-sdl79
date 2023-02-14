@@ -2,12 +2,19 @@
 title: "Bronwyn and Sarah's Collaborative Website"
 output: 
   html_document:
-    toc: true
     theme: sandstone
     highlight: monochrome
+    toc: true
+    toc_float: true
+    collapsed: true
+    smooth_scroll: true
+---
+    
+    
+    
 ---
 
-## Bronwyn and Sarah's Personal Github Accounts: 
+## Bronwyn and Sarah's Personal Github Accounts 
 
 Bronwyn's github: https://github.com/bronwynbutcher
 <br>
@@ -35,6 +42,8 @@ Sarah's github: https://github.com/slawhun
 * When I'm not out on the lakes, I love mushroom foraging, sewing historical costumes, knitting, making soup, hiking, and hanging out with my friends and/or cats.
 
 * Third bullet
+
+<br>
 
 ## About Bronwyn
 
