@@ -11,7 +11,7 @@ output:
 ---
 <br>
 
-## Bronwyn and Sarah's Personal Github Accounts 
+## Bronwyn and Sarah's Github Accounts 
 
 Bronwyn's github: https://github.com/bronwynbutcher
 <br>
