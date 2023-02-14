@@ -2,8 +2,8 @@
 title: "Bronwyn and Sarah's Collaborative Website"
 output: 
   html_document:
-    theme: sandstone
-    highlight: monochrome
+    theme: united
+    highlight: espresso
     toc: true
     toc_float: true
     collapsed: true
