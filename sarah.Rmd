@@ -2,11 +2,20 @@
 title: "Sarah"
 output: html_document
 ---
+
 <br>
 
 * I'm a freshwater ecologist from the Chicago area and I love the Great Lakes. Lake Michigan is my current study system.
 
-![](https://openclipart.org/image/800px/329146){width=70%}
+<br>
+
+<center>
+
+![](https://openclipart.org/image/800px/329146){width=60%}
+
+</center>
+
+<br>
 
 * When I'm not out on the lakes, I love mushroom foraging, sewing historical costumes, knitting, making soup, hiking, and hanging out with my friends and/or cats.
 
