@@ -11,7 +11,7 @@ output: html_document
 
 <center>
 
-![](https://openclipart.org/image/800px/329146){width=60%}
+![](https://openclipart.org/image/800px/329146){width=45%}
 
 </center>
 
@@ -19,4 +19,26 @@ output: html_document
 
 * When I'm not out on the lakes, I love mushroom foraging, sewing historical costumes, knitting, making soup, hiking, and hanging out with my friends and/or cats.
 
-* Third bullet
+<br>
+
+<center>
+
+![](https://sandisfieldartscenter.org/wp-content/uploads/2022/05/mushroom-basket.jpg){width=30%}
+![](https://arnecarlos.com/wp-content/uploads/AC-BokaomBoka32623-copy.jpg){width=25%}
+![](https://insanelygoodrecipes.com/wp-content/uploads/2022/06/Bowl-of-Cream-of-Mushroom-Soup.jpg){width=35%}
+
+</center>
+
+<br>
+
+* My current study organism is a tiny freshwater shrimp called *Mysis diluviana* and I am working with 20 years of data for this animal in the Great Lakes. They're an essential component of the pelagic food web in the lakes and perform diel vertical migration, migrating to the benthos (lakebed) during the day and swimming near the surface of the water at night. Here's a picture of the little guys.
+
+<br>
+
+<center>
+
+![](https://www.algaebarn.com/wp-content/uploads/2019/01/13996912368_bb23480b12_b.jpg){width=45%}
+
+</center>
+
+<br>
