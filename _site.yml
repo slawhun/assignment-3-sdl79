@@ -10,14 +10,14 @@ navbar:
     - text: "Bronwyn"
       href: bronwyn.html 
       menu:
-        - text: "Heading 1"
-        - text: "Page A"
-          href: page-a.html
-        - text: "Page B"
-          href: page-b.html
-        - text: "---------"
-        - text: "Heading 2"
-        - text: "Page C"
-          href: page-c.html
-        - text: "Page D"
-          href: page-d.html
+        - text: "Home"
+        - text: "Home"
+          href: index.html
+        - text: "Our Github Accounts"
+          href: accounts.html
+        - text: "Sarah"
+        - text: "About Sarah"
+          href: sarah.html
+        - text: "Bronwyn"
+        - text: "About Bronwyn"
+          href: bronwyn.html
