@@ -2,7 +2,6 @@
 title: "Sarah"
 output: html_document
 ---
-
 <br>
 
 * I'm a freshwater ecologist from the Chicago area and I love the Great Lakes. Lake Michigan is my current study system.
@@ -11,7 +10,7 @@ output: html_document
 
 <center>
 
-![](https://openclipart.org/image/800px/329146){width=45%}
+![](https://openclipart.org/image/800px/329146){width=40%}
 
 </center>
 
@@ -37,7 +36,7 @@ output: html_document
 
 <center>
 
-![](https://www.algaebarn.com/wp-content/uploads/2019/01/13996912368_bb23480b12_b.jpg){width=45%}
+![](https://www.algaebarn.com/wp-content/uploads/2019/01/13996912368_bb23480b12_b.jpg){width=35%}
 
 </center>
 

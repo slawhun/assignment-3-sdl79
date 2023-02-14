@@ -38,7 +38,7 @@ Sarah's Github: https://github.com/slawhun
 
 <center>
 
-![](https://openclipart.org/image/800px/329146){width=45%}
+![](https://openclipart.org/image/800px/329146){width=40%}
 
 </center>
 
@@ -64,7 +64,7 @@ Sarah's Github: https://github.com/slawhun
 
 <center>
 
-![](https://www.algaebarn.com/wp-content/uploads/2019/01/13996912368_bb23480b12_b.jpg){width=45%}
+![](https://www.algaebarn.com/wp-content/uploads/2019/01/13996912368_bb23480b12_b.jpg){width=35%}
 
 </center>
 
