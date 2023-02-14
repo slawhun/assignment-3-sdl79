@@ -1,6 +1,9 @@
 ---
 title: "Bronwyn and Sarah's Collaborative Website"
-output: html_document
+output: 
+  html_document:
+    theme: sandstone
+    highlight: monochrome
 ---
 
 Bronwyn's github: https://github.com/bronwynbutcher
