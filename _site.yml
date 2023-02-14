@@ -11,13 +11,10 @@ navbar:
       href: bronwyn.html 
       menu:
         - text: "Home"
-        - text: "Home"
           href: index.html
         - text: "Our Github Accounts"
           href: accounts.html
         - text: "Sarah"
-        - text: "About Sarah"
           href: sarah.html
         - text: "Bronwyn"
-        - text: "About Bronwyn"
           href: bronwyn.html
