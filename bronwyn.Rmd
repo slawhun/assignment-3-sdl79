@@ -3,12 +3,6 @@ title: "Bronwyn"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## All about Bronwyn
-
 -   I am the lab manager of the Fuller Evolutionary Biology Lab at the Cornell Lab of Ornithology. [Lab website](https://lovette.eeb.cornell.edu/)
 
 -   I am originally from Cape Town, South Africa.
@@ -17,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
     ![](https://media.nature.com/lw1024/magazine-assets/d41586-018-07205-3/d41586-018-07205-3_16227608.jpg)
 
--   In the winter I like to spend time skiing with my family
+-   In the winter I like to spend time skiing with my family.
 
     <center>
 
